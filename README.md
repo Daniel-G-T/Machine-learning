@@ -20,8 +20,3 @@ En este repositorio, encontrarás:
 - ML Imágenes: En este archivo se utilizan diversos conjuntos de datos de imágenes, los cuales son preprocesados y visualizados, seguido de la aplicación de diversos modelos de machine learning con el objetivo de crear clasificadores eficientes.
 
 - ML texto: En este notebook se utilizó un conjunto de datos correspondiente a diversas opiniones de usuarios de diversos productos. Estas opiniones se representaron mediante BOW y TF-IDF, seguido de aplicación de TSNE para la visualización de los datos. Por último, se aplicaron modelos de *machine learning* en las representaciones de las opiniones de los usuarios para crear clasificadores y comparar qué modelo era el mejor mediante métricas de rendimiento.
-
-
-## Requisitos
-
-Para ejecutar los scripts y notebooks de este repositorio, necesitarás instalar las siguientes dependencias: [lista de librerías, como numpy, pandas, scikit-learn, TensorFlow, PyTorch, matplotlib, seaborn, etc.].
